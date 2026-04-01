@@ -1,18 +1,98 @@
-# 💫 About Me:
-I am a passionate and driven B.Tech Computer Science and Engineering student at Jagannath<br>University Jaipur, class of 2025. My academic journey has provided me with a strong foundation<br>in software development principles, data structures, algorithms, and object-oriented programming.<br><br>I am learning Full-Stack Development, and enjoy turning complex problems into elegant, efficient<br> code. I have applied my skills in various academic projects and am always eager to learn new<br>technologies and frameworks.
+<h1 align="center">Hi 👋, I'm Jafar Ali</h1>
+<h3 align="center">🚀 Future Full Stack Developer | MERN Stack Learner</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_j_a_f_a_r_45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jafar Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alijafarali0000@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alijafar000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alijafar000&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alijafar000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/alijafar000">
+    <img src="https://komarev.com/ghpvc/?username=alijafar000&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alijafar000&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+- 🎓 B.Tech (CSE) | 3rd Year  
+- 🏫 Jagannath University, Jaipur  
+- 💻 Learning **MERN Stack Development**  
+- 🧠 Practicing **DSA using Java**  
+- 🎯 Goal: Become a **Full Stack Developer**  
+- ⚡ Passionate about building real-world projects  
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+- Java (DSA)
+- JavaScript
+
+### 🌐 Frontend
+- HTML | CSS | JavaScript  
+- React.js  
+
+### ⚙️ Backend
+- Node.js | Express.js  
+
+### 🗄️ Database
+- MongoDB | MySQL  
+
+### 🛠️ Tools
+- VS Code | Git | GitHub | Postman  
+
+---
+
+## 📂 Projects
+
+### 🔹 Employee Management System
+- 🌐 Live: https://jafarali-ems.netlify.app/
+
+### 🔹 Blog App
+- 🌐 Live: https://alijafar-megablog.netlify.app/
+
+### 🔹 World Atlas
+- 🌐 Live: https://world-atlas-country.netlify.app/
+
+### 🔹 Gemini Clone
+- 🌐 Live: https://alijafar-gemini-clone.netlify.app/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alijafar000&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alijafar000&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 📌 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijafar000&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn:  
+  https://www.linkedin.com/in/jafar-ali-397826293  
+
+- 💻 GitHub:  
+  https://github.com/alijafar000  
+
+---
+
+## 💡 Quote
+> "Code. Learn. Build. Repeat. 🚀"
+
+---
+
+⭐️ From [Jafar Ali](https://github.com/alijafar000)
