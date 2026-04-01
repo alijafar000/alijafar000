@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/github/last-commit/alijafar000/alijafar000?label=Last%20Update&style=for-the-badge&color=blueviolet" />
       </td>
     </tr>
-  </table>
+   </table>
 </p>
 
 ---
@@ -73,10 +73,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alijafar000&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/alijafar000/alijafar000/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -84,7 +84,6 @@
 ## 📊 Coding Activity
 
 <p align="center">
-  <img src="https://wakatime.com/share/@alijafar000/36f7e2b3-9d4c-4e8a-8b6c-1d3e5f7a9b2c.svg" width="45%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alijafar000&theme=radical&hide_border=true" width="90%" />
 </p>
 
@@ -103,19 +102,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-## 🌟 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/alijafar000/employee-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alijafar000&repo=employee-management-system&theme=radical" />
-  </a>
-  <a href="https://github.com/alijafar000/blog-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alijafar000&repo=blog-app&theme=radical" />
-  </a>
 </p>
 
 ---
