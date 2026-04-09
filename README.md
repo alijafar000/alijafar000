@@ -37,6 +37,8 @@
 | **Blog App** | [🔗 View Project](https://alijafar-megablog.netlify.app/) |
 | **World Atlas** | [🔗 View Project](https://world-atlas-country.netlify.app/) |
 | **Gemini Clone** | [🔗 View Project](https://alijafar-gemini-clone.netlify.app/) |
+| **Image Editor** | [🔗 View Project](https://alijafar-image-editor.netlify.app/) |
+| **Food Delivery App** | [🔗 View Project](https://ali-food-del.netlify.app/) |
 
 ---
 
