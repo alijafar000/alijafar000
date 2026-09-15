@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jafar Ali</h1>
 
 <h3 align="center">
-🚀 Future Full Stack Developer | MERN Stack Enthusiast
+🚀 Backend Developer | MERN Stack Enthusiast
 </h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 **B.Tech (CSE)** , 3rd Year  
+- 🎓 **B.Tech (CSE)** , 4th Year  
 - 🏫 **Jagannath University**, Jaipur  
 - 💻 Learning **MERN Stack Development**  
 - 🧠 Practicing **DSA using Java**  
@@ -33,6 +33,7 @@
 
 | Project | Live Demo |
 |---------|-----------|
+| **Portfolio Management APIs** | [🔗 View Project](https://pms-final-week-internship.onrender.com/api-docs) |
 | **Employee Management System** | [🔗 View Project](https://jafarali-ems.netlify.app/) |
 | **Blog App** | [🔗 View Project](https://alijafar-megablog.netlify.app/) |
 | **World Atlas** | [🔗 View Project](https://world-atlas-country.netlify.app/) |
